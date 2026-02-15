@@ -61,8 +61,8 @@ Data Logger
     ↓
 Real-Time Dashboard
 ```
-
-Each module is independent to allow scalability, testing, and feature expansion.
+Each module is **modular and independent**, allowing scalability, testing, and feature expansion.  
+The flow represents **real-time patient monitoring**, from physiological modeling to visualization and alerts.
 
 ---
 
