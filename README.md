@@ -104,6 +104,10 @@ streamlit run app.py
 
 This application can be deployed for free using Streamlit Community Cloud.
 
+Click on this streamlit link to run: https://smart-patient-monitoring-simulator.streamlit.app
+
+OR
+
 1. Go to https://streamlit.io/cloud  
 2. Connect your GitHub repository  
 3. Select `app.py`  
